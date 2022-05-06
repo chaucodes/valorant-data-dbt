@@ -1,0 +1,26 @@
+# version: 2
+
+# seeds:
+#     - name: staging
+#       database: valorant-349419
+#       schema: valorant
+
+#       tables:
+#         - name: Players
+#         - name: Teams
+
+# models:
+#     - name: stg_teams_highest_earnings
+#       description: >
+#         Table that filters teams from highest to lowest in terms of their earnings from events
+      # columns:
+      #  - name: id
+      #    description: Primary key for this table.
+      #    tests:
+      #        - unique:
+      #           severity: warn
+      #        - not_null:
+      #           severity: warn
+
+
+
